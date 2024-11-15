@@ -1,0 +1,7 @@
+1. Instalar o Git
+O Git é necessário para usar o GitHub, pois ele é o sistema de controle de versão que o GitHub utiliza.
+Linux:
+bash
+Copiar código
+sudo apt update
+sudo apt install git
