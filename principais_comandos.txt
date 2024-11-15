@@ -1,0 +1,9 @@
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@example.com"
+git config --list
+git clone URL-do-repositorio
+git add nome_do_arquivo
+git add .
+git commit -m "Descrição das mudanças"
+git push origin main
+
